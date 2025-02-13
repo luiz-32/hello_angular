@@ -1,5 +1,5 @@
+git add 
 git add .
-git commit -m "Adicionando comandos ao arquivo comando.txt
-git status
+git commit -m "estou comentando"
 git push
-doskey /h >Comando.txt
+doskey /h >comando.txt
