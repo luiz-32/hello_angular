@@ -1,6 +1,5 @@
-git clone https://github.com/luiz-32/hello_angular.git
-dir
-cd hello_angular
-cd helloangular
-dir /a
+git add .
+git commit -m "Adicionando comandos ao arquivo comando.txt
+git status
+git push
 doskey /h >Comando.txt
